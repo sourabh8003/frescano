@@ -3,6 +3,10 @@
     margin: 1rem;
     border: 1px solid gray;
 
+    .invalid-feedback {
+        display: block;
+    }
+
     .form-header {
         margin: -1rem;
         text-align: center;
