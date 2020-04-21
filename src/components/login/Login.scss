@@ -1,0 +1,29 @@
+.login-form {
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid gray;
+
+    .form-header {
+        margin: -1rem;
+        text-align: center;
+        background-color: #637a91;
+        margin-bottom: 1rem;
+
+        span {
+            color: #fff;
+            font-weight: 800;
+            line-height: 3.5rem;
+        }
+    }
+
+    .login-button-wrapper {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        .login-button {
+            width: 100%;
+            font-weight: 600;
+            background-color: #5fcf80;
+        }
+    }
+}
+
